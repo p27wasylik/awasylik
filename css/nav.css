@@ -1,6 +1,9 @@
 .nav {
-    text-align: center;
+    display:flex;
+    justify-content: space-between;
+    width:350px;
     padding: 25px;
+    margin:0px auto;
 }
 
 .nav__button {
