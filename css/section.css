@@ -1,0 +1,37 @@
+.section {
+    box-shadow: 0px 0px 8px rgba(144, 166, 184, 0.2);
+    padding: 50px;
+    padding-top: 20px;
+    color: lightslategray;
+    margin: 50px 0px;
+    margin-bottom:100px;
+    border-radius: 5px;
+    text-align: justify;
+}
+
+.section--hidden {
+    display: none;
+}
+
+.section__h2 {
+    color: steelblue;
+}
+
+.section__paragraph {
+    text-indent: 50px;
+}
+
+.section__paragraph--centered {
+    text-align: center;
+    padding: 5px;
+}
+
+.section__paragraph--noIndent {
+    text-indent: 0px;
+}
+
+.section__h3 {
+    border-top-style: solid;
+    border-color: steelblue;
+    padding: 10px;
+}

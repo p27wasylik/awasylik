@@ -1,0 +1,21 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+body {
+    max-width: 1000px;
+    padding: 10px;
+    margin: 0px auto;
+    font-family: 'Crimson Text', serif;
+    line-height: 1.5;
+
+
+}
+
+a:visited {
+    color: blue;
+}
