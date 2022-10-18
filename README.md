@@ -2,7 +2,7 @@
 ## ver. 2 - other look
 
 ### Demo:
-available soon
+[Demo](https://p27wasylik.github.io/awasylik/)
 
 ### Structur based on
 
