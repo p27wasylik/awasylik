@@ -1,9 +1,11 @@
 .nav {
     display:flex;
-    justify-content: space-between;
-    width:350px;
-    padding: 25px;
-    margin:0px auto;
+    justify-content: center;
+    width:auto;
+    flex-wrap:wrap;
+    padding:15px;
+    column-gap:10px;
+
 }
 
 .nav__button {
@@ -14,6 +16,7 @@
     color: white;
     border-radius: 5px;
     cursor:pointer;
+    flex: 0 0 120px;
 }
 
 .nav__button:hover {

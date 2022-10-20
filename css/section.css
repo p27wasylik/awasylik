@@ -61,3 +61,9 @@
     background-size:cover;
     background-position:center;
 }
+
+.section__div--jobs{
+    background-image:url("../images/job.svg");
+    background-size:cover;
+    background-position:center;
+}
