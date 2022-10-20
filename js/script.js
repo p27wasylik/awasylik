@@ -34,5 +34,5 @@
     
     menuJobs.addEventListener("click", () => {
         sectionContens(jobsElement, aboutMeElement, hobbyElement, portfolioElement);
-    })
+    });
 }
