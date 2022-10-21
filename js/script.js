@@ -31,7 +31,7 @@
     menuPortfolio.addEventListener("click", () => {
         sectionContens(portfolioElement, aboutMeElement, hobbyElement, jobsElement);
     });
-    
+
     menuJobs.addEventListener("click", () => {
         sectionContens(jobsElement, aboutMeElement, hobbyElement, portfolioElement);
     });

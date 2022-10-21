@@ -4,7 +4,7 @@
     padding-top: 20px;
     color: lightslategray;
     margin: 50px 0px;
-    margin-bottom:100px;
+    margin-bottom: 100px;
     border-radius: 5px;
     text-align: justify;
 }
@@ -36,34 +36,34 @@
     padding: 10px;
 }
 
-.section__div{
-    min-width:70px;
-    max-width:70px;
-    min-height:70px;
-    margin-right:20px;
-    margin-left:auto;
+.section__div {
+    min-width: 70px;
+    max-width: 70px;
+    min-height: 70px;
+    margin-right: 20px;
+    margin-left: auto;
 }
 
-.section__div--aboutMe{
-    background-image:url("../images/person.svg");
-    background-size:cover;
-    background-position:center;
+.section__div--aboutMe {
+    background-image: url("../images/person.svg");
+    background-size: cover;
+    background-position: center;
 }
 
-.section__div--hobby{
-    background-image:url("../images/keyboard.svg");
-    background-size:cover;
-    background-position:center;
+.section__div--hobby {
+    background-image: url("../images/keyboard.svg");
+    background-size: cover;
+    background-position: center;
 }
 
-.section__div--portfolio{
-    background-image:url("../images/portfolio.svg");
-    background-size:cover;
-    background-position:center;
+.section__div--portfolio {
+    background-image: url("../images/portfolio.svg");
+    background-size: cover;
+    background-position: center;
 }
 
-.section__div--jobs{
-    background-image:url("../images/job.svg");
-    background-size:cover;
-    background-position:center;
+.section__div--jobs {
+    background-image: url("../images/job.svg");
+    background-size: cover;
+    background-position: center;
 }
